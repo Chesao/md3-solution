@@ -1,0 +1,8 @@
+#ourmenu {
+    font-size: 2em;
+}
+#home-tiles div {
+    background-color: gray;
+    height: 1000px;
+    margin-bottom: 2em;
+}
